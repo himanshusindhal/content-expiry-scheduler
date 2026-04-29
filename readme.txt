@@ -1,5 +1,5 @@
 === Content Expiry Scheduler ===
-Contributors: yourusername
+Contributors: Himanshu Sindhal
 Tags: expiry, schedule, unpublish, posts, content
 Requires at least: 6.0
 Tested up to: 6.7
